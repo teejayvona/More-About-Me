@@ -12,33 +12,59 @@ My exploration of computer science has sparked within me a fervent interest in c
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/teejayvona/Detection-Lab/blob/main/README.md">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab - Coming Soon|
+| Vulnerability Management                      | SOC Automation Lab - Coming Soon|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
+### Logs
+<div>
+    <img src="https://img.shields.io/badge/-Elasticsearch-000000?&style=for-the-badge&logo=Elasticsearch&logoColor=white" alt="Elasticsearch Badge">
+    <img src="https://img.shields.io/badge/-Logstash-000000?&style=for-the-badge&logo=Logstash&logoColor=white" alt="Logstash Badge">
+    <img src="https://img.shields.io/badge/-Kibana-000000?&style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana Badge">
+</div>
+
+
+### Incident Response Tools
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logo=TheHive&logoColor=white" alt="TheHive Badge">
+    <img src="https://img.shields.io/badge/-Cortex-000000?&style=for-the-badge&logo=Cortex&logoColor=white" alt="Cortex Badge">
+</div>
+
+
+### Malware Analysis Tools
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-000000?&style=for-the-badge&logo=VirusTotal&logoColor=white" alt="VirusTotal Badge">
+    <img src="https://img.shields.io/badge/-FireEye%20AX-000000?&style=for-the-badge&logo=FireEye&logoColor=white" alt="FireEye AX Badge">
+</div>
+
+
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### IDPS
+<div>
+    <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort Badge">
+    <img src="https://img.shields.io/badge/-Suricata-000000?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata Badge">
+</div>
+
+### Vulnerability Managemnt Tool
+<div>
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus-000000?&style=for-the-badge&logo=Tenable&logoColor=white" alt="Tenable Nessus Badge">
 </div>
 
 ## Certifications
