@@ -13,7 +13,7 @@ My exploration of computer science has sparked within me a fervent interest in c
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/teejayvona/Detection-Lab/blob/main/README.md">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab - Coming Soon|
-| Vulnerability Management                      | SOC Automation Lab - Coming Soon|
+| Vulnerability Management                      | Vulnerability Management - Coming Soon|
 
 ## Tools
 
@@ -68,15 +68,12 @@ My exploration of computer science has sparked within me a fervent interest in c
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/teejayvona/Detection-Lab/blob/main/README.md">Detection Lab</a>
+- SOC Automation Project - Coming Soon
+- Vulnerability Management - Coming Soon
