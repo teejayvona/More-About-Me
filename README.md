@@ -71,6 +71,7 @@ My exploration of computer science has sparked within me a fervent interest in c
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 1 Badge">
 </div>
 
 ## Projects
