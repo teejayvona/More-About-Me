@@ -20,9 +20,19 @@ Transitioned from a SOC-focused foundation into GRC with hands-on contributions 
 
 ## Tools
 
-### GRC & Documentation
-- Confluence, Jira, Microsoft Excel, SharePoint, Power BI  
-- Excel Risk Register, ISO 27001 SoA Tracker
+### GRC Tools & Documentation
+<div>
+  <img src="https://img.shields.io/badge/-KnowBe4-F15A22?&style=for-the-badge&logoColor=white" alt="KnowBe4 Badge" />
+  <img src="https://img.shields.io/badge/-Wizer-5A5A5A?&style=for-the-badge&logoColor=white" alt="Wizer Badge" />
+  <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace Badge" />
+  <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Suite-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Suite Badge" />
+  <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint Badge" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
+  <img src="https://img.shields.io/badge/-Excel%20Risk%20Register-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Risk Register Badge" />
+  <img src="https://img.shields.io/badge/-ISO%2027001%20SoA%20Tracker-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" alt="ISO 27001 SoA Tracker Badge" />
+</div>
 
 ### Network
 <div>
