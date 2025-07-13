@@ -61,7 +61,6 @@ Detection Lab – SIEM & Log Analysis (Simulated real-world alert triage in a vi
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 1 Badge" />
 <img src="https://img.shields.io/badge/-CISSP%20(In%20Progress)-FF8C00?&style=for-the-badge&logo=ISACA&logoColor=white" alt="CRISC In Progress Badge" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 1 Badge">
 </div>
 
 ## Let's Connect
