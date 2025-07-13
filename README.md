@@ -21,7 +21,7 @@ Collaborate using tools like Jira, Confluence, and SharePoint
 - SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
 - Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
 
-## Hands-on SOC Exploration (Past Hobby)
+## Hands-on SOC Exploration
 These projects reflect my early-stage blue-team curiosity and home lab efforts:
 
 TryHackMe: SOC Level 1 (Foundational SOC concepts via guided labs)
