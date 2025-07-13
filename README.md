@@ -10,14 +10,14 @@ Risk Assessment and SoA trackers
 
 Support GDPR & SOX compliance readiness
 
-Champion security awareness through KnowBe4 and Wizer
+Security Training and Awareness Specialist utilizing KnowBe4 and Wizer for employee engagement
 
 Collaborate using tools like Jira, Confluence, and SharePoint
 
 ## Featured GRC Projects
 - ISO 27001 Policy Pack – Privileged Access, Data Classification, Incident Management, etc.
-- IT Audit & Risk Review Project - Assessed logical access, change management, and system ops in alignment with ISO 27001 and SOC2 principles.Delivered audit-ready documentation and improved privilege access reviews.
-- Risk Register (Excel) – Built with risk scoring, owners, and mitigation tracking
+- IT Audit & Risk Review Project - Assessed logical access, change management, and system ops in alignment with ISO 27001 and SOC2 principles. Delivered audit-ready documentation and improved privilege access reviews.
+- Risk Assesment (Excel) – Built with risk scoring, owners, and mitigation tracking
 - SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
 - Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
 
@@ -29,13 +29,30 @@ TryHackMe: SOC Level 1 (Foundational SOC concepts via guided labs)
 Detection Lab – SIEM & Log Analysis (Simulated real-world alert triage in a virtual SOC)
 
 ## Tools & Platforms
-<div> <img src="https://img.shields.io/badge/-KnowBe4-F15A22?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Wizer-5A5A5A?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Suite-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white" /> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/-Excel%20Risk%20Register-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/-ISO%2027001%20SoA%20Tracker-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" /> </div>
+<div>
+  <img src="https://img.shields.io/badge/-KnowBe4-F15A22?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wizer-5A5A5A?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Suite-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Excel%20Risk%20Register-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISO%2027001%20SoA%20Tracker-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" />
+  <img src="https://img.shields.io/badge/-RSA%20Archer-0072C6?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ServiceNow-0070D2?&style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-EA0000?&style=for-the-badge&logo=nessus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+</div>
 
 ### Frameworks Familiar With
 - ISO/IEC 27001:2022  
 - NIST CSF & 800-53  
 - GDPR & DPA 2018  
 - SOX (ITGC focus)
+- PCI DSS
+- Cyber Essentials
 
 ## Certifications
 
