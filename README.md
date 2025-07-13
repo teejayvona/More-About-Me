@@ -6,7 +6,7 @@ Welcome! I'm Akpovona, an MSc Cyber Security graduate with over 2 years' experie
 ## What I Do
 Develop and maintain ISO 27001-aligned security policies
 
-Build and manage risk registers and SoA trackers
+Risk Assessment and SoA trackers
 
 Support GDPR & SOX compliance readiness
 
