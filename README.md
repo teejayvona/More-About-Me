@@ -58,4 +58,5 @@ Vulnerability Management (Nessus) – Hands-on experimentation with CVSS scoring
 - [LinkedIn](https://www.linkedin.com/in/akpovona)  
 - [GitHub](https://github.com/teejayvona)
 
-_“Compliance is not just a checkbox—it's how we ensure trust and operational resilience.”_
+“Compliance is not just a checkbox—it's how we ensure trust and operational resilience.”
+#GRCspecialist | #CybersecurityProfessional
