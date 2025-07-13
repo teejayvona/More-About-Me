@@ -48,15 +48,16 @@ Vulnerability Management (Nessus) – Hands-on experimentation with CVSS scoring
 <div>
 <img src="https://img.shields.io/badge/-ISO%2027001%20(Awareness)-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" alt="ISO 27001 Awareness Badge" />
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 1 Badge" />
-<img src="https://img.shields.io/badge/-CRISC%20(In%20Progress)-FF8C00?&style=for-the-badge&logo=ISACA&logoColor=white" alt="CRISC In Progress Badge" />
+<img src="https://img.shields.io/badge/-CSSP%20(In%20Progress)-FF8C00?&style=for-the-badge&logo=ISACA&logoColor=white" alt="CRISC In Progress Badge" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 1 Badge">
 </div>
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/akpovona)  
 - [GitHub](https://github.com/teejayvona)
 
 “Compliance is not just a checkbox—it's how we ensure trust and operational resilience.”
+
 #GRCspecialist | #CybersecurityProfessional
