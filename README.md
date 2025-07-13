@@ -1,88 +1,48 @@
 # Hello, I'm Akpovona
 <a href="https://www.linkedin.com/in/akpovona-agbaire-7662608a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Governance, Risk, and Compliance (GRC) Specialist with over 2 years of practical experience delivering risk-based security solutions and ensuring regulatory compliance across diverse environments.
+I'm a Governance, Risk & Compliance (GRC) Specialist with over 2 years of experience enabling secure operations through policy, risk insights, and regulatory alignment (ISO 27001, GDPR, SOX).
 
-## Objective
-Transitioned from a SOC-focused foundation into GRC with hands-on contributions to ISO 27001-aligned policy development, risk assessments, control implementation, and audit readiness. I am passionate about shaping secure frameworks and enabling business resilience through compliance.
+## What I Do
+Develop and maintain ISO 27001-aligned security policies
 
-## Skills
+Build and manage risk registers and SoA trackers
 
-| Skill                            | Associated Project/Work |
-|----------------------------------|---------------------------|
-| ISO 27001 Policy Development     | [Information Security Policies (Wales Interiors)](https://github.com/teejayvona/InfoSec-Policies) |
-| Risk & Control Mapping (NIST, ISO) | [Control Framework Mapping](https://github.com/teejayvona/Control-Mapping-NIST-ISO) |
-| Data Classification & Handling   | [Data Classification Matrix](https://github.com/teejayvona/Data-Class-Policy) |
-| GDPR & DPA 2018 Awareness        | [Privacy Impact Checklist](https://github.com/teejayvona/GDPR-Checklist) |
-| Security Awareness Campaigns     | [User Education Toolkit](https://github.com/teejayvona/Security-Awareness-Pack) |
-| Risk Register Development        | [Risk Register Template](https://github.com/teejayvona/Risk-Register-Template) |
-| Audit & Compliance Readiness     | [SOX/ISO Pre-Audit Checklist](https://github.com/teejayvona/Audit-Prep) |
+Support GDPR & SOX compliance readiness
 
-## Tools
+Champion security awareness through KnowBe4 and Wizer
 
-### GRC Tools & Documentation
-<div>
-  <img src="https://img.shields.io/badge/-KnowBe4-F15A22?&style=for-the-badge&logoColor=white" alt="KnowBe4 Badge" />
-  <img src="https://img.shields.io/badge/-Wizer-5A5A5A?&style=for-the-badge&logoColor=white" alt="Wizer Badge" />
-  <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace Badge" />
-  <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence Badge" />
-  <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Suite-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Suite Badge" />
-  <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white" alt="SharePoint Badge" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
-  <img src="https://img.shields.io/badge/-Excel%20Risk%20Register-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel Risk Register Badge" />
-  <img src="https://img.shields.io/badge/-ISO%2027001%20SoA%20Tracker-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" alt="ISO 27001 SoA Tracker Badge" />
-</div>
+Collaborate using tools like Jira, Confluence, and SharePoint
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+## 📁 Featured GRC Projects
+🔐 ISO 27001 Policy Pack – Privileged Access, Data Classification, Incident Management, etc.
 
-### Logs
-<div>
-    <img src="https://img.shields.io/badge/-Elasticsearch-000000?&style=for-the-badge&logo=Elasticsearch&logoColor=white" alt="Elasticsearch Badge">
-    <img src="https://img.shields.io/badge/-Logstash-000000?&style=for-the-badge&logo=Logstash&logoColor=white" alt="Logstash Badge">
-    <img src="https://img.shields.io/badge/-Kibana-000000?&style=for-the-badge&logo=Kibana&logoColor=white" alt="Kibana Badge">
-</div>
+📊 Risk Register (Excel) – Built with risk scoring, owners, and mitigation tracking
 
+✅ SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
 
-### Incident Response Tools
-<div>
-    <img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logo=TheHive&logoColor=white" alt="TheHive Badge">
-    <img src="https://img.shields.io/badge/-Cortex-000000?&style=for-the-badge&logo=Cortex&logoColor=white" alt="Cortex Badge">
-</div>
+🧠 Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
 
+## Hands-on SOC Exploration (Past Hobby)
+These projects reflect my early-stage blue-team curiosity and home lab efforts:
 
-### Malware Analysis Tools
-<div>
-    <img src="https://img.shields.io/badge/-VirusTotal-000000?&style=for-the-badge&logo=VirusTotal&logoColor=white" alt="VirusTotal Badge">
-    <img src="https://img.shields.io/badge/-FireEye%20AX-000000?&style=for-the-badge&logo=FireEye&logoColor=white" alt="FireEye AX Badge">
-</div>
+TryHackMe: SOC Level 1 (Foundational SOC concepts via guided labs)
 
+Detection Lab – SIEM & Log Analysis (Simulated real-world alert triage in a virtual SOC)
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+SOC Automation (SOAR with Shuffle) – Exploring playbook-based enrichment (Coming Soon)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+Vulnerability Management (Nessus) – Hands-on experimentation with CVSS scoring (Coming Soon)
 
-### IDPS
-<div>
-    <img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" alt="Snort Badge">
-    <img src="https://img.shields.io/badge/-Suricata-000000?&style=for-the-badge&logo=Suricata&logoColor=white" alt="Suricata Badge">
-</div>
+## Tools & Platforms
+<div> <img src="https://img.shields.io/badge/-KnowBe4-F15A22?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Wizer-5A5A5A?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Suite-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white" /> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/-Excel%20Risk%20Register-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/-ISO%2027001%20SoA%20Tracker-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" /> </div>
 
-### Vulnerability Managemnt Tool
-<div>
-    <img src="https://img.shields.io/badge/-Tenable%20Nessus-000000?&style=for-the-badge&logo=Tenable&logoColor=white" alt="Tenable Nessus Badge">
-</div>
+## Certifications
+<div> <img src="https://img.shields.io/badge/-ISO%2027001%20(Awareness)-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" /> <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> <img src="https://img.shields.io/badge/-CRISC%20(In%20Progress)-FF8C00?&style=for-the-badge&logo=ISACA&logoColor=white" /> </div>
+
+##📫 Let's Connect
+📧 Email: yourname@email.com
+💼 LinkedIn
 
 ### Frameworks Familiar With
 - ISO/IEC 27001:2022  
