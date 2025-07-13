@@ -1,7 +1,7 @@
 # Hello, I'm Akpovona
 <a href="https://www.linkedin.com/in/akpovona-agbaire-7662608a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a Governance, Risk & Compliance (GRC) Specialist with over 2 years of experience enabling secure operations through policy, risk insights, and regulatory alignment (ISO 27001, GDPR, SOX).
+Welcome! I'm Akpovona, an MSc Cyber Security graduate with over 2 years' experience supporting security governance, compliance initiatives, and internal controls. My passion lies in helping organisations reduce risk and mature their security posture through practical, standards-aligned solutions.
 
 ## What I Do
 Develop and maintain ISO 27001-aligned security policies
@@ -15,13 +15,11 @@ Champion security awareness through KnowBe4 and Wizer
 Collaborate using tools like Jira, Confluence, and SharePoint
 
 ## Featured GRC Projects
-ISO 27001 Policy Pack – Privileged Access, Data Classification, Incident Management, etc.
-
-Risk Register (Excel) – Built with risk scoring, owners, and mitigation tracking
-
-SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
-
-Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
+- ISO 27001 Policy Pack – Privileged Access, Data Classification, Incident Management, etc.
+- IT Audit & Risk Review Project - Assessed logical access, change management, and system ops in alignment with ISO 27001 and SOC2 principles.Delivered audit-ready documentation and improved privilege access reviews.
+- Risk Register (Excel) – Built with risk scoring, owners, and mitigation tracking
+- SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
+- Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
 
 ## Hands-on SOC Exploration (Past Hobby)
 These projects reflect my early-stage blue-team curiosity and home lab efforts:
@@ -29,10 +27,6 @@ These projects reflect my early-stage blue-team curiosity and home lab efforts:
 TryHackMe: SOC Level 1 (Foundational SOC concepts via guided labs)
 
 Detection Lab – SIEM & Log Analysis (Simulated real-world alert triage in a virtual SOC)
-
-SOC Automation (SOAR with Shuffle) – Exploring playbook-based enrichment (Coming Soon)
-
-Vulnerability Management (Nessus) – Hands-on experimentation with CVSS scoring (Coming Soon)
 
 ## Tools & Platforms
 <div> <img src="https://img.shields.io/badge/-KnowBe4-F15A22?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Wizer-5A5A5A?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Suite-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white" /> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/-Excel%20Risk%20Register-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/-ISO%2027001%20SoA%20Tracker-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" /> </div>
