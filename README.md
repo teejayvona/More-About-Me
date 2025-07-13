@@ -14,14 +14,11 @@ Champion security awareness through KnowBe4 and Wizer
 
 Collaborate using tools like Jira, Confluence, and SharePoint
 
-## 📁 Featured GRC Projects
-🔐 ISO 27001 Policy Pack – Privileged Access, Data Classification, Incident Management, etc.
-
-📊 Risk Register (Excel) – Built with risk scoring, owners, and mitigation tracking
-
-✅ SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
-
-🧠 Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
+## Featured GRC Projects
+ISO 27001 Policy Pack – Privileged Access, Data Classification, Incident Management, etc.
+Risk Register (Excel) – Built with risk scoring, owners, and mitigation tracking
+SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
+Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
 
 ## Hands-on SOC Exploration (Past Hobby)
 These projects reflect my early-stage blue-team curiosity and home lab efforts:
@@ -39,10 +36,6 @@ Vulnerability Management (Nessus) – Hands-on experimentation with CVSS scoring
 
 ## Certifications
 <div> <img src="https://img.shields.io/badge/-ISO%2027001%20(Awareness)-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" /> <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> <img src="https://img.shields.io/badge/-CRISC%20(In%20Progress)-FF8C00?&style=for-the-badge&logo=ISACA&logoColor=white" /> </div>
-
-##📫 Let's Connect
-📧 Email: yourname@email.com
-💼 LinkedIn
 
 ### Frameworks Familiar With
 - ISO/IEC 27001:2022  
