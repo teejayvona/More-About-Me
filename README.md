@@ -16,8 +16,11 @@ Collaborate using tools like Jira, Confluence, and SharePoint
 
 ## Featured GRC Projects
 ISO 27001 Policy Pack – Privileged Access, Data Classification, Incident Management, etc.
+
 Risk Register (Excel) – Built with risk scoring, owners, and mitigation tracking
+
 SoA Tracker (Excel) – Tracks control implementation, alignment, and audit status
+
 Security Awareness Tracker – Using KnowBe4 & Wizer engagement metrics (internal only)
 
 ## Hands-on SOC Exploration (Past Hobby)
@@ -34,9 +37,6 @@ Vulnerability Management (Nessus) – Hands-on experimentation with CVSS scoring
 ## Tools & Platforms
 <div> <img src="https://img.shields.io/badge/-KnowBe4-F15A22?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Wizer-5A5A5A?&style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20Workspace-4285F4?&style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/-Confluence-172B4D?&style=for-the-badge&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft%20Suite-00A4EF?&style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-SharePoint-0078D4?&style=for-the-badge&logo=microsoftsharepoint&logoColor=white" /> <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/-Excel%20Risk%20Register-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/-ISO%2027001%20SoA%20Tracker-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" /> </div>
 
-## Certifications
-<div> <img src="https://img.shields.io/badge/-ISO%2027001%20(Awareness)-0033A0?&style=for-the-badge&logo=ISO&logoColor=white" /> <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" /> <img src="https://img.shields.io/badge/-CRISC%20(In%20Progress)-FF8C00?&style=for-the-badge&logo=ISACA&logoColor=white" /> </div>
-
 ### Frameworks Familiar With
 - ISO/IEC 27001:2022  
 - NIST CSF & 800-53  
@@ -52,14 +52,6 @@ Vulnerability Management (Nessus) – Hands-on experimentation with CVSS scoring
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-000000?&style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe SOC Level 1 Badge">
 </div>
-
-## 🧪 Past Projects (SOC Foundation)
-
-| Project                         | Description |
-|----------------------------------|-------------|
-| Detection Lab                   | Simulated SOC environment for log ingestion and alert triage |
-| SOC Automation (Shuffle)        | Automation of triage tasks using SOAR workflows |
-| Vulnerability Management Lab    | Nessus-based scanning and risk rating simulation |
 
 ## 📫 Let's Connect
 
